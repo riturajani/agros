@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/agros/static/css/main.73cc49d6.chunk.css",
+    "main.js": "/agros/static/js/main.057fab42.chunk.js",
+    "main.js.map": "/agros/static/js/main.057fab42.chunk.js.map",
+    "runtime-main.js": "/agros/static/js/runtime-main.293c9542.js",
+    "runtime-main.js.map": "/agros/static/js/runtime-main.293c9542.js.map",
+    "static/css/2.4364761d.chunk.css": "/agros/static/css/2.4364761d.chunk.css",
+    "static/js/2.33f2dbab.chunk.js": "/agros/static/js/2.33f2dbab.chunk.js",
+    "static/js/2.33f2dbab.chunk.js.map": "/agros/static/js/2.33f2dbab.chunk.js.map",
+    "static/js/3.008336c7.chunk.js": "/agros/static/js/3.008336c7.chunk.js",
+    "static/js/3.008336c7.chunk.js.map": "/agros/static/js/3.008336c7.chunk.js.map",
+    "index.html": "/agros/index.html",
+    "static/css/2.4364761d.chunk.css.map": "/agros/static/css/2.4364761d.chunk.css.map",
+    "static/css/main.73cc49d6.chunk.css.map": "/agros/static/css/main.73cc49d6.chunk.css.map",
+    "static/js/2.33f2dbab.chunk.js.LICENSE.txt": "/agros/static/js/2.33f2dbab.chunk.js.LICENSE.txt",
+    "static/media/Biostimulants.422f5808.jpg": "/agros/static/media/Biostimulants.422f5808.jpg",
+    "static/media/bootstrap-icons.css": "/agros/static/media/bootstrap-icons.dfd0ea12.woff2",
+    "static/media/call-to-action-bg.5e21585f.jpg": "/agros/static/media/call-to-action-bg.5e21585f.jpg",
+    "static/media/logo.6ce24c58.svg": "/agros/static/media/logo.6ce24c58.svg",
+    "static/media/logo.a8e7e2f0.png": "/agros/static/media/logo.a8e7e2f0.png",
+    "static/media/slide-1.787e88a8.jpg": "/agros/static/media/slide-1.787e88a8.jpg",
+    "static/media/slide-2.70965290.jpg": "/agros/static/media/slide-2.70965290.jpg",
+    "static/media/slide-3.fa2c7813.jpg": "/agros/static/media/slide-3.fa2c7813.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.293c9542.js",
+    "static/css/2.4364761d.chunk.css",
+    "static/js/2.33f2dbab.chunk.js",
+    "static/css/main.73cc49d6.chunk.css",
+    "static/js/main.057fab42.chunk.js"
+  ]
+}
