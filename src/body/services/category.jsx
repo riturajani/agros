@@ -11,7 +11,7 @@ export default function Category() {
           data-aos-delay="100"
         >
           <div class="icon-box iconbox-blue">
-            <img src={`/imgs/cat/${i.categoryImg}`} className="catImgs"></img>
+            <img src={`imgs/cat/${i.categoryImg}`} className="catImgs"></img>
             <h4>
               <HashLink to={"#" + i.categoryName}>{i.categoryName}</HashLink>
             </h4>
