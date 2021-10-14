@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/agros/static/css/main.73cc49d6.chunk.css",
-    "main.js": "/agros/static/js/main.057fab42.chunk.js",
-    "main.js.map": "/agros/static/js/main.057fab42.chunk.js.map",
+    "main.js": "/agros/static/js/main.9cc06804.chunk.js",
+    "main.js.map": "/agros/static/js/main.9cc06804.chunk.js.map",
     "runtime-main.js": "/agros/static/js/runtime-main.293c9542.js",
     "runtime-main.js.map": "/agros/static/js/runtime-main.293c9542.js.map",
     "static/css/2.4364761d.chunk.css": "/agros/static/css/2.4364761d.chunk.css",
@@ -28,6 +28,6 @@
     "static/css/2.4364761d.chunk.css",
     "static/js/2.33f2dbab.chunk.js",
     "static/css/main.73cc49d6.chunk.css",
-    "static/js/main.057fab42.chunk.js"
+    "static/js/main.9cc06804.chunk.js"
   ]
 }
